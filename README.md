@@ -15,27 +15,30 @@ This repository presents analysis of customer demographics, spending patterns, a
 ***3 Dashboards:*** Time Frame, Store, Profit View
 
 ***Key Insights:***
+
 Financial Overview
-•	Total Revenue: $5.4M | Total Target: $5.3M | Variance: +3.7% (revenue exceeded the target by 3.7%)
-•	Top Revenue Months: August ($486K), closely followed by May ($481K)
-•	Quarterly Insight: Consistent revenue across quarters, with Q2 slightly leading with $1.38M
-•	Weekdays vs. Weekends: Weekdays contribute 71% of revenue.
-•	Top Revenue Day: Thursday ($796K)
-•	Profit Margin: $2M | Profit Margin %: 42.2%
-•	Least Profitable Location: New York ($86.6K)
-•	Top Profit Month: August ($208.6K)
-•	Top Profit Day: Monday ($342.9K), closely followed by Thursday ($340.7K)
+1. Total Revenue: $5.4M | Total Target: $5.3M | Variance: +3.7% (revenue exceeded the target by 3.7%)
+2. Top Revenue Months: August ($486K), closely followed by May ($481K)
+3. Quarterly Insight: Consistent revenue across quarters, with Q2 slightly leading with $1.38M
+4. Weekdays vs. Weekends: Weekdays contribute 71% of revenue.
+5. Top Revenue Day: Thursday ($796K)
+6. Profit Margin: $2M | Profit Margin %: 42.2%
+7. Least Profitable Location: New York ($86.6K)
+8. Top Profit Month: August ($208.6K)
+9. Top Profit Day: Monday ($342.9K), closely followed by Thursday ($340.7K)
+
 Store and Product Insights
-•	Top Store: Lee Myers (+31.1% variance, exceeding revenue target)
-•	Bottom Store: Novak PLC (-24.6% variance, below revenue target)
-•	Return/Refund Rate: 8.03%/8.05% - Low rates, positive for business.
-•	Top Product Category: Soft Drinks ($718.2K profit)
+1. Top Store: Lee Myers (+31.1% variance, exceeding revenue target)
+2. Bottom Store: Novak PLC (-24.6% variance, below revenue target)
+3. Return/Refund Rate: 8.03%/8.05% - Low rates, positive for business.
+4. Top Product Category: Soft Drinks ($718.2K profit)
+
 Customer Insights
-•	Gender Profit Contribution: Males 51.5%, Females 48.5% (almost equal contribution)
-•	Top Age Group: 51+ years, with an average customer age of 45.
+1. Gender Profit Contribution: Males 51.5%, Females 48.5% (almost equal contribution)
+2. Top Age Group: 51+ years, with an average customer age of 45.
 
 ***Key Recommendations:***
-•	Optimize Weekend Sales: Increase weekend revenue through targeted promotions and incentives to balance sales with weekdays.
-•	Improve Novak PLC Performance: Tailor strategies to address -24.6% revenue variance at Novak PLC, focusing on meeting sales targets.
-•	Expand Soft Drinks Line: Boost profitability by expanding the soft drinks product line and launching new promotions.
-•	Ensure Low Return Rates: Maintain high product quality and customer satisfaction to sustain low return and refund rates.
+1. Optimize Weekend Sales: Increase weekend revenue through targeted promotions and incentives to balance sales with weekdays.
+2. Improve Novak PLC Performance: Tailor strategies to address -24.6% revenue variance at Novak PLC, focusing on meeting sales targets.
+3. Expand Soft Drinks Line: Boost profitability by expanding the soft drinks product line and launching new promotions.
+4. Ensure Low Return Rates: Maintain high product quality and customer satisfaction to sustain low return and refund rates.
